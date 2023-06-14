@@ -1,75 +1,75 @@
 Match No,Date,Ground Name,Team1,Team2,Winning Team,Margin
-1,"March 31, 2023",Ahmedabad,Chennai Super Kings,Gujarat Titans,Titans,5 wickets (with 4 balls remaining)
-2,"April 01, 2023",Mohali,Punjab Kings,Kolkata Knight Riders,Punjab Kings,7 runs (DLS method)
-3,"April 01, 2023",Lucknow,Lucknow Super Giants,Delhi Capitals,Super Giants,50 runs
-4,"April 02, 2023",Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Royals,72 runs
-5,"April 02, 2023",Bengaluru,Mumbai Indians,Royal Challengers Bangalore,RCB,8 wickets (with 22 balls remaining)
-6,"April 03, 2023",Chennai,Chennai Super Kings,Lucknow Super Giants,Super Kings,12 runs
-7,"April 04, 2023",Delhi,Delhi Capitals,Gujarat Titans,Titans,6 wickets (with 11 balls remaining)
-8,"April 05, 2023",Guwahati,Punjab Kings,Rajasthan Royals,Punjab Kings,5 runs
-9,"April 06, 2023",Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,KKR,81 runs
-10,"April 07, 2023",Lucknow,Sunrisers Hyderabad,Lucknow Super Giants,Super Giants,5 wickets (with 24 balls remaining)
-11,"April 08, 2023",Guwahati,Rajasthan Royals,Delhi Capitals,Royals,57 runs
-12,"April 08, 2023",Wankhede,Mumbai Indians,Chennai Super Kings,Super Kings,7 wickets (with 11 balls remaining)
-13,"April 09, 2023",Ahmedabad,Gujarat Titans,Kolkata Knight Riders,KKR,3 wickets (with 0 balls remaining)
-14,"April 09, 2023",Hyderabad,Punjab Kings,Sunrisers Hyderabad,Sunrisers,8 wickets (with 17 balls remaining)
-15,"April 10, 2023",Bengaluru,Royal Challengers Bangalore,Lucknow Super Giants,Super Giants,1 wicket (with 0 balls remaining)
-16,"April 11, 2023",Delhi,Delhi Capitals,Mumbai Indians,Mumbai,6 wickets (with 0 balls remaining)
-17,"April 12, 2023",Chennai,Rajasthan Royals,Chennai Super Kings,Royals,3 runs
-18,"April 13, 2023",Mohali,Punjab Kings,Gujarat Titans,Titans,6 wickets (with 1 ball remaining)
-19,"April 14, 2023",Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers,23 runs
-20,"April 15, 2023",Bengaluru,Royal Challengers Bangalore,Delhi Capitals,RCB,23 runs
-21,"April 15, 2023",Lucknow,Lucknow Super Giants,Punjab Kings,Punjab Kings,2 wickets (with 3 balls remaining)
-22,"April 16, 2023",Wankhede,Kolkata Knight Riders,Mumbai Indians,Mumbai,5 wickets (with 14 balls remaining)
-23,"April 16, 2023",Ahmedabad,Gujarat Titans,Rajasthan Royals,Royals,3 wickets (with 4 balls remaining)
-24,"April 17, 2023",Bengaluru,Chennai Super Kings,Royal Challengers Bangalore,Super Kings,8 runs
-25,"April 18, 2023",Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai,14 runs
-26,"April 19, 2023",Jaipur,Lucknow Super Giants,Rajasthan Royals,Super Giants,10 runs
-27,"April 20, 2023",Mohali,Royal Challengers Bangalore,Punjab Kings,RCB,24 runs
-28,"April 20, 2023",Delhi,Kolkata Knight Riders,Delhi Capitals,Capitals,4 wickets (with 4 balls remaining)
-29,"April 21, 2023",Chennai,Sunrisers Hyderabad,Chennai Super Kings,Super Kings,7 wickets (with 8 balls remaining)
-30,"April 22, 2023",Lucknow,Gujarat Titans,Lucknow Super Giants,Titans,7 runs
-31,"April 22, 2023",Wankhede,Punjab Kings,Mumbai Indians,Punjab Kings,13 runs
-32,"April 23, 2023",Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,RCB,7 runs
-33,"April 23, 2023",Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Super Kings,49 runs
-34,"April 24, 2023",Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Capitals,7 runs
-35,"April 25, 2023",Ahmedabad,Gujarat Titans,Mumbai Indians,Titans,55 runs
-36,"April 26, 2023",Bengaluru,Kolkata Knight Riders,Royal Challengers Bangalore,KKR,21 runs
-37,"April 27, 2023",Jaipur,Rajasthan Royals,Chennai Super Kings,Royals,32 runs
-38,"April 28, 2023",Mohali,Lucknow Super Giants,Punjab Kings,Super Giants,56 runs
-39,"April 29, 2023",Eden Gardens,Kolkata Knight Riders,Gujarat Titans,Titans,7 wickets (with 13 balls remaining)
-40,"April 29, 2023",Delhi,Sunrisers Hyderabad,Delhi Capitals,Sunrisers,9 runs
-41,"April 30, 2023",Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,4 wickets (with 0 balls remaining)
-42,"April 30, 2023",Wankhede,Rajasthan Royals,Mumbai Indians,Mumbai,6 wickets (with 3 balls remaining)
-43,"May 01, 2023",Lucknow,Royal Challengers Bangalore,Lucknow Super Giants,RCB,18 runs
-44,"May 02, 2023",Ahmedabad,Delhi Capitals,Gujarat Titans,Capitals,5 runs
-45,"May 03, 2023",Lucknow,Lucknow Super Giants,Chennai Super Kings,Drawn,Drawn
+1,"March 31, 2023",Ahmedabad,OMA,ZIM,Titans,5 wickets (with 4 balls remaining)
+2,"April 01, 2023",Mohali,NEPAL,UAE,Punjab Kings,7 runs (DLS method)
+3,"April 01, 2023",Lucknow,NED,SL,Super Giants,50 runs
+4,"April 02, 2023",Hyderabad,USA,IRE,Royals,72 runs
+5,"April 02, 2023",Bengaluru,RWN,BOT,RCB,8 wickets (with 22 balls remaining)
+6,"April 03, 2023",Chennai,Kenya,Uganda,Super Kings,12 runs
+7,"April 04, 2023",Delhi,AUS,IND,Titans,6 wickets (with 11 balls remaining)
+8,"April 05, 2023",Guwahati,HANTS,LANCS,Punjab Kings,5 runs
+9,"April 06, 2023",Eden Gardens,ESSEX,SOM,KKR,81 runs
+10,"April 07, 2023",Lucknow,WARKS,NOTTS,Super Giants,5 wickets (with 24 balls remaining)
+11,"April 08, 2023",Guwahati,KENT,SURR,Royals,57 runs
+12,"April 08, 2023",Wankhede,GLAM,DURH,Super Kings,7 wickets (with 11 balls remaining)
+13,"April 09, 2023",Ahmedabad,GLOUC,LEICS,KKR,3 wickets (with 0 balls remaining)
+14,"April 09, 2023",Hyderabad,DERBS,YORKS,Sunrisers,8 wickets (with 17 balls remaining)
+15,"April 10, 2023",Bengaluru,SUSS,WORCS,Super Giants,1 wicket (with 0 balls remaining)
+16,"April 11, 2023",Delhi,Chennai Super Kings,Gujarat Titans,Mumbai,6 wickets (with 0 balls remaining)
+17,"April 12, 2023",Chennai,Punjab Kings,Kolkata Knight Riders,Royals,3 runs
+18,"April 13, 2023",Mohali,Lucknow Super Giants,Delhi Capitals,Titans,6 wickets (with 1 ball remaining)
+19,"April 14, 2023",Eden Gardens,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers,23 runs
+20,"April 15, 2023",Bengaluru,Mumbai Indians,Royal Challengers Bangalore,RCB,23 runs
+21,"April 15, 2023",Lucknow,Chennai Super Kings,Lucknow Super Giants,Punjab Kings,2 wickets (with 3 balls remaining)
+22,"April 16, 2023",Wankhede,Delhi Capitals,Gujarat Titans,Mumbai,5 wickets (with 14 balls remaining)
+23,"April 16, 2023",Ahmedabad,Punjab Kings,Rajasthan Royals,Royals,3 wickets (with 4 balls remaining)
+24,"April 17, 2023",Bengaluru,Kolkata Knight Riders,Royal Challengers Bangalore,Super Kings,8 runs
+25,"April 18, 2023",Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Mumbai,14 runs
+26,"April 19, 2023",Jaipur,Rajasthan Royals,Delhi Capitals,Super Giants,10 runs
+27,"April 20, 2023",Mohali,Mumbai Indians,Chennai Super Kings,RCB,24 runs
+28,"April 20, 2023",Delhi,Gujarat Titans,Kolkata Knight Riders,Capitals,4 wickets (with 4 balls remaining)
+29,"April 21, 2023",Chennai,Punjab Kings,Sunrisers Hyderabad,Super Kings,7 wickets (with 8 balls remaining)
+30,"April 22, 2023",Lucknow,Royal Challengers Bangalore,Lucknow Super Giants,Titans,7 runs
+31,"April 22, 2023",Wankhede,Delhi Capitals,Mumbai Indians,Punjab Kings,13 runs
+32,"April 23, 2023",Bengaluru,Rajasthan Royals,Chennai Super Kings,RCB,7 runs
+33,"April 23, 2023",Eden Gardens,Punjab Kings,Gujarat Titans,Super Kings,49 runs
+34,"April 24, 2023",Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Capitals,7 runs
+35,"April 25, 2023",Ahmedabad,Royal Challengers Bangalore,Delhi Capitals,Titans,55 runs
+36,"April 26, 2023",Bengaluru,Lucknow Super Giants,Punjab Kings,KKR,21 runs
+37,"April 27, 2023",Jaipur,Kolkata Knight Riders,Mumbai Indians,Royals,32 runs
+38,"April 28, 2023",Mohali,Gujarat Titans,Rajasthan Royals,Super Giants,56 runs
+39,"April 29, 2023",Eden Gardens,Chennai Super Kings,Royal Challengers Bangalore,Titans,7 wickets (with 13 balls remaining)
+40,"April 29, 2023",Delhi,Mumbai Indians,Sunrisers Hyderabad,Sunrisers,9 runs
+41,"April 30, 2023",Chennai,Lucknow Super Giants,Rajasthan Royals,Punjab Kings,4 wickets (with 0 balls remaining)
+42,"April 30, 2023",Wankhede,Royal Challengers Bangalore,Punjab Kings,Mumbai,6 wickets (with 3 balls remaining)
+43,"May 01, 2023",Lucknow,Kolkata Knight Riders,Delhi Capitals,RCB,18 runs
+44,"May 02, 2023",Ahmedabad,Sunrisers Hyderabad,Chennai Super Kings,Capitals,5 runs
+45,"May 03, 2023",Lucknow,Gujarat Titans,Lucknow Super Giants,Drawn,Drawn
 46,"May 03, 2023",Mohali,Punjab Kings,Mumbai Indians,Mumbai,6 wickets (with 7 balls remaining)
-47,"May 04, 2023",Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,KKR,5 runs
-48,"May 05, 2023",Jaipur,Rajasthan Royals,Gujarat Titans,Titans,9 wickets (with 37 balls remaining)
-49,"May 06, 2023",Chennai,Mumbai Indians,Chennai Super Kings,Super Kings,6 wickets (with 14 balls remaining)
-50,"May 06, 2023",Delhi,Royal Challengers Bangalore,Delhi Capitals,Capitals,7 wickets (with 20 balls remaining)
-51,"May 07, 2023",Ahmedabad,Gujarat Titans,Lucknow Super Giants,Titans,56 runs
-52,"May 07, 2023",Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers,4 wickets (with 0 balls remaining)
-53,"May 08, 2023",Eden Gardens,Punjab Kings,Kolkata Knight Riders,KKR,5 wickets (with 0 balls remaining)
-54,"May 09, 2023",Wankhede,Royal Challengers Bangalore,Mumbai Indians,Mumbai,6 wickets (with 21 balls remaining)
-55,"May 10, 2023",Chennai,Chennai Super Kings,Delhi Capitals,Super Kings,27 runs
-56,"May 11, 2023",Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Royals,9 wickets (with 41 balls remaining)
-57,"May 12, 2023",Wankhede,Mumbai Indians,Gujarat Titans,Mumbai,27 runs
-58,"May 13, 2023",Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Super Giants,7 wickets (with 4 balls remaining)
-59,"May 13, 2023",Delhi,Punjab Kings,Delhi Capitals,Punjab Kings,31 runs
-60,"May 14, 2023",Jaipur,Royal Challengers Bangalore,Rajasthan Royals,RCB,112 runs
-61,"May 14, 2023",Chennai,Chennai Super Kings,Kolkata Knight Riders,KKR,6 wickets (with 9 balls remaining)
-62,"May 15, 2023",Ahmedabad,Gujarat Titans,Sunrisers Hyderabad,Titans,34 runs
-63,"May 16, 2023",Lucknow,Lucknow Super Giants,Mumbai Indians,Super Giants,5 runs
-64,"May 17, 2023",Dharamsala,Delhi Capitals,Punjab Kings,Capitals,15 runs
-65,"May 18, 2023",Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,RCB,8 wickets (with 4 balls remaining)
-66,"May 19, 2023",Dharamsala,Punjab Kings,Rajasthan Royals,Royals,4 wickets (with 2 balls remaining)
-67,"May 20, 2023",Delhi,Chennai Super Kings,Delhi Capitals,Super Kings,77 runs
-68,"May 20, 2023",Eden Gardens,Lucknow Super Giants,Kolkata Knight Riders,Super Giants,1 run
-69,"May 21, 2023",Wankhede,Sunrisers Hyderabad,Mumbai Indians,Mumbai,8 wickets (with 12 balls remaining)
-70,"May 21, 2023",Bengaluru,Royal Challengers Bangalore,Gujarat Titans,Titans,6 wickets (with 5 balls remaining)
-1,"May 23, 2023",Chennai,Chennai Super Kings,Gujarat Titans,Super Kings,15 runs
-2023,"May 24, 2023",Chennai,Mumbai Indians,Lucknow Super Giants,Mumbai,81 runs
-2,"May 26, 2023",Ahmedabad,Gujarat Titans,Mumbai Indians,Titans,62 runs
-28,"May 28 - 29, 2023",Ahmedabad,Gujarat Titans,Chennai Super Kings,Reserve day available -Super Kings,5 wickets (with 0 balls remaining) (DLS method)
+47,"May 04, 2023",Hyderabad,Royal Challengers Bangalore,Rajasthan Royals,KKR,5 runs
+48,"May 05, 2023",Jaipur,Chennai Super Kings,Kolkata Knight Riders,Titans,9 wickets (with 37 balls remaining)
+49,"May 06, 2023",Chennai,Delhi Capitals,Sunrisers Hyderabad,Super Kings,6 wickets (with 14 balls remaining)
+50,"May 06, 2023",Delhi,Gujarat Titans,Mumbai Indians,Capitals,7 wickets (with 20 balls remaining)
+51,"May 07, 2023",Ahmedabad,Kolkata Knight Riders,Royal Challengers Bangalore,Titans,56 runs
+52,"May 07, 2023",Jaipur,Rajasthan Royals,Chennai Super Kings,Sunrisers,4 wickets (with 0 balls remaining)
+53,"May 08, 2023",Eden Gardens,Lucknow Super Giants,Punjab Kings,KKR,5 wickets (with 0 balls remaining)
+54,"May 09, 2023",Wankhede,Kolkata Knight Riders,Gujarat Titans,Mumbai,6 wickets (with 21 balls remaining)
+55,"May 10, 2023",Chennai,Sunrisers Hyderabad,Delhi Capitals,Super Kings,27 runs
+56,"May 11, 2023",Eden Gardens,Chennai Super Kings,Punjab Kings,Royals,9 wickets (with 41 balls remaining)
+57,"May 12, 2023",Wankhede,Rajasthan Royals,Mumbai Indians,Mumbai,27 runs
+58,"May 13, 2023",Hyderabad,Royal Challengers Bangalore,Lucknow Super Giants,Super Giants,7 wickets (with 4 balls remaining)
+59,"May 13, 2023",Delhi,Delhi Capitals,Gujarat Titans,Punjab Kings,31 runs
+60,"May 14, 2023",Jaipur,Lucknow Super Giants,Chennai Super Kings,RCB,112 runs
+61,"May 14, 2023",Chennai,Punjab Kings,Mumbai Indians,KKR,6 wickets (with 9 balls remaining)
+62,"May 15, 2023",Ahmedabad,Kolkata Knight Riders,Sunrisers Hyderabad,Titans,34 runs
+63,"May 16, 2023",Lucknow,Rajasthan Royals,Gujarat Titans,Super Giants,5 runs
+64,"May 17, 2023",Dharamsala,Mumbai Indians,Chennai Super Kings,Capitals,15 runs
+65,"May 18, 2023",Hyderabad,Royal Challengers Bangalore,Delhi Capitals,RCB,8 wickets (with 4 balls remaining)
+66,"May 19, 2023",Dharamsala,Gujarat Titans,Lucknow Super Giants,Royals,4 wickets (with 2 balls remaining)
+67,"May 20, 2023",Delhi,Rajasthan Royals,Sunrisers Hyderabad,Super Kings,77 runs
+68,"May 20, 2023",Eden Gardens,Punjab Kings,Kolkata Knight Riders,Super Giants,1 run
+69,"May 21, 2023",Wankhede,Royal Challengers Bangalore,Mumbai Indians,Mumbai,8 wickets (with 12 balls remaining)
+70,"May 21, 2023",Bengaluru,Chennai Super Kings,Delhi Capitals,Titans,6 wickets (with 5 balls remaining)
+1,"May 23, 2023",Chennai,Kolkata Knight Riders,Rajasthan Royals,Super Kings,15 runs
+2023,"May 24, 2023",Chennai,Mumbai Indians,Gujarat Titans,Mumbai,81 runs
+2,"May 26, 2023",Ahmedabad,Sunrisers Hyderabad,Lucknow Super Giants,Titans,62 runs
+28,"May 28 - 29, 2023",Ahmedabad,Punjab Kings,Delhi Capitals,Reserve day available -Super Kings,5 wickets (with 0 balls remaining) (DLS method)
